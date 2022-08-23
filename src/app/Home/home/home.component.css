@@ -1,0 +1,84 @@
+.home-page {
+  font-family: GlacialIndifference;
+  background-image: url("https://cdn.vectorstock.com/i/1000x1000/13/10/parcel-return-service-neon-light-icon-vector-28541310.webp");
+  width: 100%;
+  height: 1300px;
+  background-size: cover;
+}
+
+.val {
+  color: #dc3545;
+}
+
+.note {
+  color: #dc3545;
+  display: flex;
+  justify-content: center;
+  font-size: 85px;
+  margin-left: 40px;
+  margin-right: 40px;
+  padding-top: 50px;
+}
+
+.below-note {
+  justify-content: center;
+  font-size: 70px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 280px;
+  color: #ffff;
+  font-family: GlacialIndifference;
+}
+
+.heading {
+  padding: inherit;
+  justify-content: center;
+  font-size: 70px;
+  color: #ffff;
+  font-family: GlacialIndifference;
+  display: flex;
+}
+
+p {
+  display: block;
+  justify-content: center;
+}
+
+.next-btn {
+  color: #ffc107;
+  background-color: black;
+  width: auto !important;
+  margin: 10px;
+  float: right;
+}
+
+.modal-footer {
+  position: relative;
+}
+
+.cancel-btn {
+  color: azure;
+  background-color: black;
+  margin: 10px;
+  float: right;
+  width: 76px !important;
+  display: flex;
+  justify-content: space-around;
+}
+
+.save-btn {
+  color: #ffc107;
+  background-color: black;
+  width: auto !important;
+  margin: 10px;
+  position: relative;
+  right: -514px;
+}
+
+.processing-detail-div {
+  background: transparent;
+}
+
+.processing-detail-box {
+  margin-top: 330px;
+}

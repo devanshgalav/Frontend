@@ -1,0 +1,25 @@
+.home-page {
+  font-family: GlacialIndifference;
+  background-image: url("https://cdn.vectorstock.com/i/1000x1000/13/10/parcel-return-service-neon-light-icon-vector-28541310.webp");
+  width: 100%;
+  height: 1300px;
+  background-size: cover;
+}
+
+.signin-btn {
+    color: #ffc107;
+    background-color: black;
+}
+
+.signup {
+    color: #ffc107;
+    background-color: black;
+}
+
+.text-muted {
+    color: black !important;
+}
+
+.modal-dialog{
+  margin-top: 516px !important;
+}
